@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AARANYA SINGH
 - 👀 I’m interested in Artificial Inteligence and web development
-- 🌱 I’m currently learning PYTHON and JAVASCRIPT
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on projects related to web development and Artificial Inteligence
 - 📫 How to reach me : My linkedin -> www.linkedin.com/in/aaranya-singh-89589131a
 - 😄 Pronouns: HE/HIM
