@@ -12,7 +12,7 @@
 
 ---
 
-### 🏆 Competitive Programming
+### 🏆 LEETCODE || CODEFORCES || DSA || COMPETITIVE PROGRAMMING
 
 <p align="center">
 <a href="https://leetcode.com/u/aaranya_singh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
