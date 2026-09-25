@@ -15,12 +15,12 @@
 ### 🏆 LEETCODE || CODEFORCES || DSA || COMPETITIVE PROGRAMMING
 
 <p align="center">
-<a href="https://leetcode.com/u/aaranya_singh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://leetcode.com/u/RNA_12/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
 <a href="https://codeforces.com/profile/RNA_12" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aaranya_singh?theme=dark&font=baloo2&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/RNA_12?theme=dark&font=baloo2&ext=heatmap" />
 </p>
 
 ---
