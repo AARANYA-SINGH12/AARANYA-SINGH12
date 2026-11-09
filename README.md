@@ -2,7 +2,7 @@
 
 # 👋 Aaranya Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=445F9D&center=true&vCenter=true&width=550&lines=Competitive+Programmer+%F0%9F%A7%A9;LeetCode+%2B+Codeforces+Grinder;C+%2F+C%2B%2B+%2F+Python+Enthusiast" alt="Typing SVG" />
+
 
 </div>
 
