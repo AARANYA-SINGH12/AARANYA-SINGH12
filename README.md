@@ -3,7 +3,7 @@
 # 👋 Aaranya Singh
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=1000&color=445F9D&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;AI+%2F+ML+Enthusiast;Exploring+LLMs+%26+Agentic+AI;Passionate+About+DSA+%26+Problem+Solving;Building+Projects+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=445F9D&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Exploring+LLMs+%26+Agentic+AI+%F0%9F%A7%A0;DSA+%7C+Competitive+Programming+%F0%9F%92%BB;Building+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 </div>
