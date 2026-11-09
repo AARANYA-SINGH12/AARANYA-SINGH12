@@ -2,7 +2,9 @@
 
 # 👋 Aaranya Singh
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2500&pause=1000&color=445F9D&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;AI+%2F+ML+Enthusiast;Exploring+LLMs+%26+Agentic+AI;Passionate+About+DSA+%26+Problem+Solving;Building+Projects+That+Matter" alt="Typing SVG" />
+</p>
 
 </div>
 
