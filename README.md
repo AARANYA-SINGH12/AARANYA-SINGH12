@@ -12,16 +12,14 @@
 
 ---
 
-### 🏆 LEETCODE || CODEFORCES || DSA || COMPETITIVE PROGRAMMING
+### 💻 Tech Stack
 
-<p align="center">
-<a href="https://leetcode.com/u/RNA_12/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="https://codeforces.com/profile/RNA_12" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/RNA_12?theme=dark&font=baloo2&ext=heatmap" />
-</p>
 
 ---
 
@@ -38,13 +36,16 @@
 
 ---
 
-### 💻 Tech Stack
+### 🏆 LEETCODE || CODEFORCES || DSA || COMPETITIVE PROGRAMMING
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+<a href="https://leetcode.com/u/RNA_12/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="https://codeforces.com/profile/RNA_12" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/RNA_12?theme=dark&font=baloo2&ext=heatmap" />
+</p>
 
 ---
 
