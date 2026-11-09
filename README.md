@@ -40,7 +40,7 @@
 #### LLM Frameworks & Tools : 
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat&logo=langchain)
-![LangSmith]
+****LangSmith****
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
 
 #### Databases : 
