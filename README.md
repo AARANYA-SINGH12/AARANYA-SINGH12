@@ -36,9 +36,12 @@
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?logo=python&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch)
 
-#### Generative AI & Machine Learning : 
 
 #### LLM Frameworks & Tools : 
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat&logo=langchain)
+![LangSmith]
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
 
 #### Databases : 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,6 +49,7 @@
 
 #### Developer Tools :
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 
 ---
