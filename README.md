@@ -34,9 +34,7 @@
 <a href="https://codeforces.com/profile/RNA_12" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aaranya-Singh12&icon=0&color=445f9d" alt="profile views" />
-</p>
+
 
 ---
 
