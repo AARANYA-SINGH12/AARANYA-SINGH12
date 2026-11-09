@@ -53,7 +53,7 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![Render](https://img.shields.io/badge/<LABEL>-<COLOR>?logo=render&logoColor=<LOGO_COLOR>   )
+![Render](https://img.shields.io/badge/<RENDER>-<COLOR>?logo=render&logoColor=<LOGO_COLOR>)
 
 ---
 
